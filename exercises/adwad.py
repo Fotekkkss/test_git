@@ -6,5 +6,5 @@ print(c)
 for i in range(0, n):
     ele = [input(), int(input())]
     lst.append(ele)
-
+#new update to main
 print(lst)
