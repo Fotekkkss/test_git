@@ -6,3 +6,6 @@ for i in range(0, n):
     lst.append(ele)
 #new update to main
 print(lst)
+
+
+#new comment/ first commit
